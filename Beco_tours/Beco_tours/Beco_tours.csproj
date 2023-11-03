@@ -1,0 +1,62 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>02c9cd9b-1c8f-4ce0-9929-3a4fe838efdd</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" />
+    <PackageReference Include="Mapster" Version="7.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Models\" />
+    <None Remove="Data\" />
+    <None Remove="Contracts\" />
+    <None Remove="Repositories\" />
+    <None Remove="Services\" />
+    <None Remove="Contracts\Repository\" />
+    <None Remove="Contracts\Service\" />
+    <None Remove="Data\Dto\" />
+    <None Remove="Data\Dto\Lokacija\" />
+    <None Remove="Data\Dto\Putnik\" />
+    <None Remove="Data\Dto\Rezervacija\" />
+    <None Remove="Data\Dto\Tura\" />
+    <None Remove="Data\Dto\Vozac\" />
+    <None Remove="Data\Dto\Vozilo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Data\" />
+    <Folder Include="Contracts\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Services\" />
+    <Folder Include="Contracts\Repository\" />
+    <Folder Include="Contracts\Service\" />
+    <Folder Include="Data\Dto\" />
+    <Folder Include="Data\Dto\Lokacija\" />
+    <Folder Include="Data\Dto\Putnik\" />
+    <Folder Include="Data\Dto\Rezervacija\" />
+    <Folder Include="Data\Dto\Tura\" />
+    <Folder Include="Data\Dto\Vozac\" />
+    <Folder Include="Data\Dto\Vozilo\" />
+  </ItemGroup>
+</Project>

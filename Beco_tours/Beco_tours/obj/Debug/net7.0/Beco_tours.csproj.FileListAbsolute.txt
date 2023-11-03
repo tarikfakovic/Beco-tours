@@ -1,0 +1,94 @@
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/appsettings.Development.json
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/appsettings.json
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Beco_tours
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Beco_tours.deps.json
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Beco_tours.runtimeconfig.json
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Beco_tours.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Beco_tours.pdb
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Humanizer.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Mapster.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Mapster.Core.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/MySqlConnector.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/bin/Debug/net7.0/System.CodeDom.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.csproj.AssemblyReference.cache
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.AssemblyInfoInputs.cache
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.AssemblyInfo.cs
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.csproj.CoreCompileInputs.cache
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.MvcApplicationPartsAssemblyInfo.cs
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.MvcApplicationPartsAssemblyInfo.cache
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/staticwebassets/msbuild.Beco_tours.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/staticwebassets/msbuild.build.Beco_tours.props
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Beco_tours.props
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Beco_tours.props
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/staticwebassets.build.json
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/staticwebassets.development.json
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/scopedcss/bundle/Beco_tours.styles.css
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.csproj.CopyComplete
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/refint/Beco_tours.dll
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.pdb
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/Beco_tours.genruntimeconfig.cache
+/Users/shekashes/Desktop/Objektno orijentisano/PROJEKAT FINAL/Beco_tours/Beco_tours/obj/Debug/net7.0/ref/Beco_tours.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\appsettings.Development.json
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\appsettings.json
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Beco_tours.exe
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Beco_tours.deps.json
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Beco_tours.runtimeconfig.json
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Beco_tours.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Beco_tours.pdb
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Humanizer.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Mapster.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Mapster.Core.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\MySqlConnector.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\bin\Debug\net7.0\System.CodeDom.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.csproj.AssemblyReference.cache
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.GeneratedMSBuildEditorConfig.editorconfig
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.AssemblyInfoInputs.cache
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.AssemblyInfo.cs
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.csproj.CoreCompileInputs.cache
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.MvcApplicationPartsAssemblyInfo.cs
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.MvcApplicationPartsAssemblyInfo.cache
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\staticwebassets\msbuild.Beco_tours.Microsoft.AspNetCore.StaticWebAssets.props
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\staticwebassets\msbuild.build.Beco_tours.props
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beco_tours.props
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beco_tours.props
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\staticwebassets.pack.json
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\staticwebassets.build.json
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\staticwebassets.development.json
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\scopedcss\bundle\Beco_tours.styles.css
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.csproj.CopyComplete
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\refint\Beco_tours.dll
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.pdb
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\Beco_tours.genruntimeconfig.cache
+D:\softver\VS PROJECTS\Beco_tours\Beco_tours\obj\Debug\net7.0\ref\Beco_tours.dll
