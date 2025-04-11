@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\softver\\VS PROJECTS\\Beco_tours\\Beco_tours\\Beco_tours.csproj": {}
+    "C:\\Users\\tarik\\Desktop\\All Projects\\OBJEKTNO\\Beco tours\\Beco_tours\\Beco_tours\\Beco_tours.csproj": {}
   },
   "projects": {
-    "D:\\softver\\VS PROJECTS\\Beco_tours\\Beco_tours\\Beco_tours.csproj": {
+    "C:\\Users\\tarik\\Desktop\\All Projects\\OBJEKTNO\\Beco tours\\Beco_tours\\Beco_tours\\Beco_tours.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\softver\\VS PROJECTS\\Beco_tours\\Beco_tours\\Beco_tours.csproj",
+        "projectUniqueName": "C:\\Users\\tarik\\Desktop\\All Projects\\OBJEKTNO\\Beco tours\\Beco_tours\\Beco_tours\\Beco_tours.csproj",
         "projectName": "Beco_tours",
-        "projectPath": "D:\\softver\\VS PROJECTS\\Beco_tours\\Beco_tours\\Beco_tours.csproj",
-        "packagesPath": "C:\\Users\\Shekashes\\.nuget\\packages\\",
-        "outputPath": "D:\\softver\\VS PROJECTS\\Beco_tours\\Beco_tours\\obj\\",
+        "projectPath": "C:\\Users\\tarik\\Desktop\\All Projects\\OBJEKTNO\\Beco tours\\Beco_tours\\Beco_tours\\Beco_tours.csproj",
+        "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tarik\\Desktop\\All Projects\\OBJEKTNO\\Beco tours\\Beco_tours\\Beco_tours\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\softver\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shekashes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +34,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -94,6 +91,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -102,7 +117,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
